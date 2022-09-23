@@ -9,5 +9,5 @@
 ##### Sampling Theorem
 ##### Broken Airconditioner Detection by it's sound signals case study
 
-## References : (Rich Radke's DSP Course)[https://www.youtube.com/watch?v=hVOA8VtKLgk&list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et&ab_channel=RichRadke]
+## References : [Rich Radke's DSP Course](https://www.youtube.com/watch?v=hVOA8VtKLgk&list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et&ab_channel=RichRadke)
 
